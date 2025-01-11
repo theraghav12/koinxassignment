@@ -1,12 +1,14 @@
 import About from "../components/About"
-import CradsPromo from "../components/CradsPromo"
-import Crypto from "../components/Crypto"
+import CradsPromo from "../components/Cardpromo"
+
+import Crypto from "../components/Crypto.tsx"; 
+
 import PageHolder from "../components/PageHolder"
-import PerformanceSection from "../components/PerformanceSection"
+import PerformanceSection from "../components/PerformanceSedction"
 import SentimentSection from "../components/SentimentSection"
 import ToggleSection from "../components/ToggleSection"
-import Tokenomics from "../components/Tokenomics"
-import TrendingCoins from "../components/TrendingCoins"
+import Tokenomics from "../components/Tokenmics"
+import TrendingCoins from "../components/TrendingCoin"
 import Team from "../components/TeamCard"
 import SuggestionSection from "../components/SuggestionSection"
 

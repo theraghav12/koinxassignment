@@ -7,7 +7,7 @@ function About() {
         <div className="text-2xl font-semibold text-[#0F1629]">
           About Bitcoin
         </div>
-        <div className="mt-6">
+        <div className="mt-6 ">
           <div className="text-lg font-bold text-[#0B1426]">
             What is Bitcoin?
           </div>
@@ -87,7 +87,7 @@ function About() {
                 </div>
                 <div className="items-center p-4 flex flex-col justify-center mr-10">
                   <div className=" text-white text-xl">
-                    Calculate your tax liability
+                  Calculate your tax liability
                   </div>
                   <div className="bg-white px-3 py-2 rounded-lg mt-3 flex items-center">
                     Check Now
@@ -98,7 +98,7 @@ function About() {
             </div>
           </div>
         </div>
-        <div className="my-2 text-[#3E424A] font-medium">
+        <div className="my-2 text-[#3E424A] font-medium ">
           Fermentum hendrerit imperdiet nulla viverra faucibus. Sit aliquam
           massa vel convallis duis ac. Mi adipiscing semper scelerisque
           porttitor pulvinar nunc risus. Fermentum potenti iaculis lacinia

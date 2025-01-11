@@ -1,7 +1,7 @@
 import { useEffect, useRef, memo } from 'react';
 
 function TradingViewWidget() {
-  const container = useRef(null);
+  const container = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
     if (!container.current) return;
