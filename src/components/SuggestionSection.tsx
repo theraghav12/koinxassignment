@@ -79,7 +79,7 @@ function CryptoCard({ cryptoData }: any) {
         src={
           cryptoData && cryptoData.sparkline
             ? cryptoData.sparkline
-            : "https://www.coingecko.com/coins/33566/sparkline.svg"
+            : "https://www.coingecko.com/categories/23844246/sparkline.svg"
         }
         alt={cryptoData && cryptoData.name ? cryptoData.name : ""}
         className="w-full h-20"
