@@ -77,7 +77,7 @@ function PerformanceSection() {
                   Bitcoin Price
                 </div>
                 <div className="text-[#111827] text-sm font-semibold mr-4">
-                  $16,815.46
+                  $66759
                 </div>
               </div>
               <div className="flex justify-between py-5 border-b-2 border-[#D3E0E6]">
